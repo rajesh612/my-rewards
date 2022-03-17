@@ -1,6 +1,10 @@
 # my-rewards
 Display quarterly reward points for each customer
 
+# project setup
+- git clone git@github.com:rajesh612/my-rewards.git
+- cd my-rewards
+
 # Install dependencies
 - npm install
 
